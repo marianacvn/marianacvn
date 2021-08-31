@@ -10,6 +10,7 @@
   <img align="center" alt="Mari-html" height="30" wight="40" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Mari-css" height="30" wight="40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Mari-py" height="30" wight="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Mari"  height="190" wight="100" src="https://cdn.discordapp.com/attachments/645308825611534346/882329541681479762/image0.gif">
   </div>
   
   ##
