@@ -1,4 +1,4 @@
-# Oii, sou a Mari! 
+# Hi, I'm the mari!
 
 <div>
 	<a href="https://github.com/marianacvn">
