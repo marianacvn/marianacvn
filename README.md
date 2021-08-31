@@ -1,4 +1,4 @@
-# Hi, I'm the mari!
+# Hi, I'm the mari! Student at the Federal Rural University of Pernambuco, currently studying sql and web.
 
 <div>
 	<a href="https://github.com/marianacvn">
