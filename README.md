@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Eu sou a Mari!</h1>
-<h3 align="center">Estudante na Universidade Federal Rural, dividida entre desenvolvimento de jogos e sql.</h3>
+<h1 align="center">Hi 👋,I'm Mari!</h1>
+<h3 align="center">Student at the Federal Rural University, divided between game development and sql.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marianacvn" alt="marianacvn" /></a> </p>
 
