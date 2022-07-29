@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋,I'm Mari!</h1>
- <hr>
+
+ 
 <h4 align="center">
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
@@ -23,10 +23,14 @@
 <a href="https://www.python.org " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href=" https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 
- <p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianacvn&show_icons=true&locale=en&layout=compact" alt="marianacvn" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marianacvn&show_icons=true&locale=en" alt="marianacvn" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marianacvn&" alt="marianacvn" />
-</p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacvn&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div>
+  <a href="https://github.com/davilnv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianacvn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacvn&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+  
 
    
 ![Snake animation](https://github.com/marianacvn/marianacvn/blob/output/github-contribution-grid-snake.svg)
