@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋,I'm Mari!</h1>
-<h3 align="center">Student at the Federal Rural University, divided between game development and sql.</h3>
+ <hr>
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marianacvn" alt="marianacvn" /></a> </p>
 
-- 📝 Escrevo regularmente em: [https://amortificais.tumblr.com/](https://amortificais.tumblr.com/)
 
-- 📫 Como me alcançar: **marianacvn1@gmail.com**
 
-<h3 align="left">Connect com mim:</h3>
-<p align="left">
-<a href="https://twitter.com/comoserumamari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comoserumamari" height="30" width="40" /></a>
-<a href="https://fb.com/maaricarval " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maaricarval" height="30" width="40" /></a >
-<a href="https://instagram.com/marizinhacvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marizinhacvn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/maaricarval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maaricarval" height="30" width="40" /></a>
-</p>
 
 <h3 align="left"> Línguas e ferramentas:</h3>
 <p align="left"> 
