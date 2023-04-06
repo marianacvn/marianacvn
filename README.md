@@ -1,10 +1,11 @@
 
-<h2> Hi, I'm Mari!  </h2>
+<h1 align="center"> Olá, sou a Mari  </h1>
 
+> Apaixonada por café e cultura japonesa. 
 
-
-<img align='right' src="https://media.giphy.com/media/3o6Mb8nBiztHwJtlPG/giphy.gif" width="400">
-
+<br/>
+  <br/>
+  <br/>
 
 <div>
  
