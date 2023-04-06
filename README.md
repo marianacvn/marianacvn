@@ -1,5 +1,5 @@
 
-<h1 align="center"> Olá, sou a Mari  </h1>
+<h1 align="center"> Hello, World ☕ </h1>
 
 > Apaixonada por café e cultura japonesa. 
 
