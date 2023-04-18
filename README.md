@@ -1,7 +1,11 @@
 
 <h1 align="center"> Hello, World ☕ </h1>
 
-> Apaixonada por café e cultura japonesa. 
+```diff
++ Serra Talhada - Pernambuco, Brazil.
+- 23 years old
+# Apaixonada por café e cultura japonesa.
+``` 
 
 <br/>
   <br/>
