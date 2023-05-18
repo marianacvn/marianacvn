@@ -1,6 +1,8 @@
 
 <h1 align="center"> Hello, World ☕ </h1>
 
+My name is Mariana and I'm graduated in Information Systems [ufrpe - uast] - Serra Talhada, Brazil.
+
 ```diff
 + Serra Talhada - Pernambuco, Brazil.
 - 23 years old
