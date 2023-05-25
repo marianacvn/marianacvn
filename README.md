@@ -1,5 +1,9 @@
-<h1 align="center"> Hello,World ☕ </h1>
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c78aa3&height=120&section=header"/>
+</a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c78aa3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World+☕;Be+Welcome+<3)
 
 
 
@@ -11,8 +15,7 @@
 ``` 
 
 
-<img align="center"> ![maddercode](https://github.com/marianacvn/marianacvn/assets/59375940/32566501-5d8f-4c46-b0d2-0e2c678f4903)
-</img> 
+
 
 
 
@@ -33,3 +36,7 @@
  
  
 ![Snake animation](https://github.com/marianacvn/marianacvn/blob/output/github-contribution-grid-snake.svg)
+
+  <a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c78aa3&height=120&section=footer"/>
+</a>
