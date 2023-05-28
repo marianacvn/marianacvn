@@ -33,7 +33,16 @@
     <img height='25em' src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img height='25rem'     src="https://camo.githubusercontent.com/596357d8b52257c282f713b78daa05587ee258c2822b1738be87afe6bcce92da/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446973636f726426636f6c6f723d353836354632266c6f676f3d446973636f7264266c6f676f436f6c6f723d464646464646266c6162656c3d" />
-  
+   <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sqlite"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+     <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/>
  <img height='25rem' src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361dedb045d6c3cf8821fe30a1c2d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697426636f6c6f723d463035303332266c6f676f3d476974266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 <img height='25rem' src="https://camo.githubusercontent.com/0be2801c181e04467fd4d9849879fe9ca06439c39dfccdc90313b7c1a559fb90/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e736f6d6e696126636f6c6f723d343030304246266c6f676f3d496e736f6d6e6961266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 <img height='25rem' src="https://camo.githubusercontent.com/5e98e05fdec44615e5ee36a6f0a90d39183f1f5034ffdc821dabbb1f7149631c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6174657269616c2b44657369676e2b49636f6e7326636f6c6f723d323139364633266c6f676f3d4d6174657269616c2b44657369676e2b49636f6e73266c6f676f436f6c6f723d464646464646266c6162656c3d" />
