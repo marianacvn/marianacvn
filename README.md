@@ -88,14 +88,16 @@ sleep();
  
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacvn&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   <a href="https://github.com/marianacvn">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacvn&layout=compact&langs_count=16&theme=buefy"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianacvn&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+    
+<p align="center">   
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacvn&layout=compact&langs_count=16&theme=buefy&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianacvn&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
    
 <div> 
  
  
- 
+
 ![Snake animation](https://github.com/marianacvn/marianacvn/blob/output/github-contribution-grid-snake.svg)
 
   <a href="#">
