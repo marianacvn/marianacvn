@@ -14,7 +14,7 @@
 # Apaixonada por café e cultura japonesa.
 ``` 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c78aa3&size=35&center=true&vCenter=true&width=1000&lines=Tools+and+Languages)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c78aa3&size=35&center=true&vCenter=true&width=1000&lines=Languages+and+Tools)
   <p align="center">
     <img height='25em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img height='25em' src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
