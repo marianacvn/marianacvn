@@ -99,7 +99,13 @@ sleep();
  
 
 ![Snake animation](https://github.com/marianacvn/marianacvn/blob/output/github-contribution-grid-snake.svg)
+  
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c78aa3&size=35&center=true&vCenter=true&width=1000&lines=Visitors+<3)
+<div align="center">  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marianacvn}/count.svg" /></p> 
+</div> 
+  
   <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c78aa3&height=120&section=footer"/>
 </a>
