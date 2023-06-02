@@ -96,9 +96,6 @@ sleep();
    
 <div> 
  
- 
-
-![Snake animation](https://github.com/marianacvn/marianacvn/blob/output/github-contribution-grid-snake.svg)
   
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c78aa3&size=35&center=true&vCenter=true&width=1000&lines=Visitors+<3)
