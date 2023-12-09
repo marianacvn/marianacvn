@@ -86,12 +86,13 @@ sleep();
 
 <div>
  
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacvn&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
   <a href="https://github.com/marianacvn">
-    
+
+
 <p align="center">   
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marianacvn&layout=compact&langs_count=16&theme=buefy&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marianacvn&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacvn&theme=buefy&layout=compact&langs_count=16&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marianacvn&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 </p>
    
 <div> 
