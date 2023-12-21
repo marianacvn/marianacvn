@@ -17,7 +17,7 @@ object Mariana {
 import Desenvolvedora from marianacvn;
 
 class SobreMim extends Desenvolvedora {
-  trabalho = "Text Sistemas";
+  trabalho = "Tex Sistemas";
   local = "De casa";
 }
 
