@@ -1,5 +1,5 @@
 
-## About me <3
+## ⭐ About me 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -28,17 +28,14 @@ class Skills extends Desenvolvedor {
 ```
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail" /></a>
-
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maricarvalhon/" alt="LinkedIn"/></a>
 
   <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100092502484200" alt="Facebook"/></a>
 
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=www.instagram.com/mrnacarv/" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link==https://www.instagram.com/mrnacarv/" alt="Instagram"/></a>
 </p>
 
 
@@ -63,7 +60,7 @@ class Skills extends Desenvolvedor {
 <div> 
  
   
-## Visitors <3
+## ⭐ Visitors 
 <div align="center">  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marianacvn}/count.svg" /></p> 
 </div> 
