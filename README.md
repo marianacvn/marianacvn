@@ -21,7 +21,7 @@ class SobreMim extends Desenvolvedora {
   local = "De casa";
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Desenvolvedora {
   linguagens = ["Python", "Java", "JavaScript", "Dart", "TypeScript"];
   frameworks = ["SpringBoot", "Spring", "Django","Vue". "Flask", "Flutter", "React", "React Native", "Bootstrap"];
 }
