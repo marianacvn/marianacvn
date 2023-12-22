@@ -1,7 +1,22 @@
 
-## ⭐ Sobre mim
+
+
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```diff
+@@ Mariana 'marianacvn' ⭐ @@
+
+> tem hobbies demais;
+> é divertida e comunicadora;
+> conversa sobre tech, café, cultura japonesa e aleatoriedades;
+
+! apaixonada por front-end
+! streamer de stardew valley
+! estudante de sistemas de informação
+```
+
+
 
 ```kotlin
 object Mariana {
@@ -26,16 +41,17 @@ class Skills extends Desenvolvedora {
   frameworks = ["SpringBoot", "Spring", "Django","Vue". "Flask", "Flutter", "React", "React Native", "Bootstrap"];
 }
 ```
+### 🔗 Me encontre
 
 <p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maricarvalhon/" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/maricarvalhon/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100092502484200" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100092502484200" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link==https://www.instagram.com/mrnacarv/" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/mrnacarv/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 
