@@ -9,6 +9,7 @@
 
 > tem hobbies demais;
 > é divertida e comunicadora;
+> programadora sem café é uma poeta sem poesia;
 > conversa sobre tech, café, cultura japonesa e aleatoriedades;
 
 ! apaixonada por front-end
