@@ -13,7 +13,7 @@
 > conversa sobre tech, café, cultura japonesa e aleatoriedades;
 
 ! apaixonada por front-end
-! streamer de stardew valley
+! usuária de stardew valley
 ! estudante de sistemas de informação
 ```
 
