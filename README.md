@@ -51,7 +51,7 @@ class Skills extends Desenvolvedora {
   <a href="https://www.facebook.com/profile.php?id=100092502484200" title="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
-  <a href="https://www.instagram.com/mrnacarv/" title="Instagram">
+  <a href="https://www.instagram.com/marianacarv/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
