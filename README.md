@@ -13,7 +13,7 @@
 > conversa sobre tech, café, cultura japonesa e aleatoriedades;
 
 ! apaixonada por front-end
-! usuária de stardew valley
+! usuária de stardew valley e the sims
 ! estudante de sistemas de informação
 ```
 
@@ -39,7 +39,7 @@ class SobreMim extends Desenvolvedora {
 
 class Skills extends Desenvolvedora {
   linguagens = ["Python", "Java", "JavaScript", "Dart", "TypeScript"];
-  frameworks = ["SpringBoot", "Spring", "Django","Vue". "Flask", "Flutter", "React", "React Native", "Bootstrap"];
+  frameworks = ["LibGdx", "SpringBoot", "Spring", "Django","Vue". "Flask", "Flutter", "React", "React Native", "Bootstrap"];
 }
 ```
 ### 🔗 Me encontre
@@ -71,7 +71,7 @@ class Skills extends Desenvolvedora {
 
 <p align="center">   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacvn&theme=buefy&layout=compact&langs_count=16&hide_border=true&count_private=true"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marianacvn&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&show=reviews&count_private=true,discussions_started&count_private=true,discussions_answered&count_private=true,prs_merged&count_private=true,prs_merged_percentage&count_private=true"/>
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marianacvn&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&show=reviews&count_private=true,discussions_started&count_private=true,discussions_answered&count_private=true,prs_merged&count_private=true,prs_merged_percentage&count_private=true"/> -->
 </p>
    
 <div> 
