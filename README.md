@@ -14,7 +14,8 @@
 
 ! apaixonada por front-end
 ! usuária de stardew valley e the sims
-! estudante de sistemas de informação
+! bacharela em sistemas de informação (ufrpe/uast)
+! estudante de pós-graduação 
 ```
 
 
