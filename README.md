@@ -2,7 +2,7 @@
 
 
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21wOHAyY21qM3NuN2FoeGNtMHozc2gxemdqaHhoNWs3OTdoYzhjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bn7hlyp0Cmcg0/giphy.gif" />
+
 
 ```diff
 @@ Mariana 'marianacvn' ⭐ @@
