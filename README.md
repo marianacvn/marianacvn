@@ -8,12 +8,11 @@
 @@ Mariana 'marianacvn' ⭐ @@
 
 > tem hobbies demais;
-> é divertida e comunicadora;
 > programadora sem café é uma poeta sem poesia;
-> conversa sobre tech, café, cultura japonesa e aleatoriedades;
+
 
 ! apaixonada por front-end
-! usuária de stardew valley e the sims
+! usuária de stardew valley, minecraft e the sims
 ! bacharela em sistemas de informação (ufrpe/uast)
 ! estudante de pós-graduação 
 ```
@@ -34,7 +33,6 @@ object Mariana {
 import Desenvolvedora from marianacvn;
 
 class SobreMim extends Desenvolvedora {
-  trabalho = "Tex Sistemas";
   local = "De casa";
 }
 
