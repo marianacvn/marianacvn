@@ -33,8 +33,8 @@ class SobreMim extends Desenvolvedora {
 }
 
 class Skills extends Desenvolvedora {
-  linguagens = ["Python", "Java", "JavaScript", "Dart", "TypeScript"];
-  frameworks = ["LibGdx", "SpringBoot", "Spring", "Django","Vue". "Flask", "Flutter", "React", "React Native", "Bootstrap"];
+  linguagens = ["Python", "Java", "Kotlin", "JavaScript", "Dart", "TypeScript"];
+  frameworks = ["LibGDx", "SpringBoot", "Spring", "Django","Vue". "Flask", "Flutter", "React", "React Native", "Bootstrap"];
 }
 ```
 
