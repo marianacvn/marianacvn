@@ -7,10 +7,6 @@
 ```diff
 @@ Mariana 'marianacvn' ⭐ @@
 
-> tem hobbies demais;
-> programadora sem café é uma poeta sem poesia;
-
-
 ! apaixonada por front-end
 ! usuária de stardew valley, minecraft e the sims
 ! bacharela em sistemas de informação (ufrpe/uast)
